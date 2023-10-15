@@ -1,0 +1,41 @@
+#titulo {
+    color: white;
+    background: #0867bd;
+    text-align: center;
+    border: #fc3375;
+}
+#contacto{
+    color: blue;
+    text-align: center;
+    padding: 10px;
+}  
+p {
+    text-align: center;
+    color: black;
+}
+#habilidades{
+    color:blue;
+    text-align: center;
+}
+#redes{
+    color: #0584f8;
+    text-align: center;
+    
+}
+
+a:hover {
+    color:  #6133fc;
+}
+#Nombre{
+    color: blue;
+    text-align: center;
+}
+#imagen{
+    text-align: center;
+}
+#footer{
+    color: white;
+    background: #0867bd;
+    text-align: center;
+    padding: 10px;
+}
